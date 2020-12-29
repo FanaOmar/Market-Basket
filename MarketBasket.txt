@@ -1,0 +1,8 @@
+Dataset Url : https://raw.githubusercontent.com/FanaOmar/Market-Basket/main/Market_Basket_Data.csv
+Ref : 
+https://www.kaggle.com/yugagrawal95/market-basket-analysis-apriori-in-python
+https://www.kaggle.com/roshansharma/market-basket-analysis
+https://www.kaggle.com/datatheque/association-rules-mining-market-basket-analysis
+https://www.kaggle.com/xvivancos/market-basket-analysis
+
+Jupyter Notebook
